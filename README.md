@@ -9,7 +9,7 @@ Our method aiming at detecting highly-overlapped instances in crowded scenes.
 The key of our approach is to let each proposal predict a set of instances that might be highly overlapped rather than a single one in previous proposal-based frameworks. With this scheme, the predictions of nearby proposals are expected to infer the **same set** of instances, rather than **distinguishing individuals**, which is much easy to be learned. Equipped with new techniques such as EMD Loss and Set NMS, our detector can effectively handle the difficulty of detecting highly overlapped objects.
 
 The network structure and results are shown here:
-
+jlsdbgskljbgrpijsjhgdj
 <img width=60% src="https://github.com/Purkialo/images/blob/master/CrowdDet_arch.jpg"/>
 <img width=90% src="https://github.com/Purkialo/images/blob/master/CrowdDet_demo.jpg"/>
 
